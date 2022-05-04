@@ -82,6 +82,10 @@ color: aliceblue;
     .col-xl-11 {width: 91.66%;}
     .col-xl-12 {width: 100%;}
 }
+
+span{
+    color: yellow;
+}
 .container{
     margin: 50px auto;
 }
