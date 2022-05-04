@@ -1,1 +1,4 @@
-this is my page responsive 
+# Responsive-exe
+## used items :
+##### **mediaquery**
+##### **CSS**
