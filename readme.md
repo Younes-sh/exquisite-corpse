@@ -1,4 +1,4 @@
-#information about **HTML** , **CSS** , **JavaScript**
+# information about **HTML** , **CSS** , **JavaScript**
 ## Responsive-exe
 ### used items :
 ##### **mediaquery**
